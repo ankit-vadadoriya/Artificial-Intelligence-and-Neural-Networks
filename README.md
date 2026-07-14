@@ -12,5 +12,5 @@ This repository contains my COM7019 Artificial Intelligence and Neural Networks 
 Click the Binder badge below.
 
 ```
-Binder badge will be added here.
+[Binder badge will be added here.](https://mybinder.org/v2/gh/ankit-vadadoriya/Artificial-Intelligence-and-Neural-Networks/main?labpath=Stock_Market_Prediction.ipynb)
 ```
